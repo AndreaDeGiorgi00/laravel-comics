@@ -9,5 +9,10 @@
 </head>
 <body>
     @include('sections.header')
+    <div class="jumbotron-box">
+        <img  src="{{asset("images/jumbotron.jpg")}}">
+    
+    </div>
+
 </body>
 </html>
