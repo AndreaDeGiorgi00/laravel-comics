@@ -26,8 +26,34 @@
 
         </div>
         
-        <div class="d-flex align-items-center justify-content-center">
+        <div class="d-flex align-items-center justify-content-center mb-5 mt-5">
             <button type="button" class="btn btn-primary">Load More</button>
+        </div>
+
+
+        <div class="banner d-flex align-items-center">
+            <div class="container d-flex justify-content-between align-items-center">
+                <div >
+                    <img src="{{asset('images/buy-comics-digital-comics.png')}}">
+                    <span> DIGITAL COMICS </span>
+                </div>
+                <div >
+                    <img src="{{asset('images/buy-comics-merchandise.png')}}">
+                    <span>DC MERCHANDISE </span>
+                </div>
+                <div >
+                    <img src="{{asset('images/buy-comics-shop-locator.png')}}">
+                    <span> SUBSCRIPTION </span>
+                </div>
+                <div >
+                    <img src="{{asset('images/buy-comics-subscriptions.png')}}">
+                    <span>COMICS SHOP LOCATOR </span>
+                </div>
+                <div >
+                    <img src="{{asset('images/buy-dc-power-visa.svg')}}">
+                    <span>DC POWER VISA </span>
+                </div>
+            </div>
         </div>
     </div>
 
