@@ -28,3 +28,6 @@ $array = config('headerLinks');
 
         </div>
 </section>
+<div class="jumbotron-box">
+        <img  src="{{asset("images/jumbotron.jpg")}}">
+    </div>

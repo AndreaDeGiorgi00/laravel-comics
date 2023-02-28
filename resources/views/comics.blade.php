@@ -11,9 +11,7 @@
     @include('sections.header')
 
 
-    <div class="jumbotron-box">
-        <img  src="{{asset("images/jumbotron.jpg")}}">
-    </div>
+    
 
     <div class="background">
         <!-- titolo sezione principale -->
